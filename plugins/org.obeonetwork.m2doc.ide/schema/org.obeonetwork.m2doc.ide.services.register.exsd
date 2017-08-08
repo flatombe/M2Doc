@@ -6,7 +6,7 @@
          <meta.schema plugin="org.obeonetwork.m2doc.ide" id="org.obeonetwork.m2doc.ide.services.register" name="M2Doc Service Register"/>
       </appinfo>
       <documentation>
-         M2Doc Service Regsitry Extension
+         M2Doc Service Registry Extension
       </documentation>
    </annotation>
 
